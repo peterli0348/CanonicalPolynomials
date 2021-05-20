@@ -1,0 +1,12 @@
+polynomials as read from file
++1+5+2+2+3+3+4+4
++2+2+4
+polynomials in canonical form
++24
++8
+sum of polynomials in canonical form
++32
+difference of polynomials in canonical form
++16
+product of polynomials in canonical form
++192
