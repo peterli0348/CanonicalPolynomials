@@ -71,6 +71,7 @@ output_sample_input_2.txt
 sample_input_1.txt
 
 > 1 5 2 2 3 3 4 4
+> 
 > 2 2 4 1
 
 output_sample_input_1.txt
