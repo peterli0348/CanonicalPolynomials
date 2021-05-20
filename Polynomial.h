@@ -14,10 +14,7 @@
 #define CANONICALPOLYNOMIAL_POLYNOMIAL_H
 #define CANONICALPOLYNOMIAL_POLYNOMIAL_DEBUG true
 
-#if CANONICALPOLYNOMIAL_POLYNOMIAL_DEBUG
 #include <iostream>
-#endif
-
 #include "Monomial.h"
 
 class Polynomial {

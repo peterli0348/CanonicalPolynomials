@@ -13,9 +13,7 @@
 #define CANONICALPOLYNOMIAL_MONOMIAL_H
 #define CANONICALPOLYNOMIAL_MONOMIAL_DEBUG true
 
-#if CANONICALPOLYNOMIAL_MONOMIAL_DEBUG
 #include <iostream>
-#endif
 
 class Monomial {
 public:

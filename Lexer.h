@@ -10,9 +10,7 @@
 #define CANONICALPOLYNOMIAL_LEXER_H
 #define CANONICALPOLYNOMIAL_LEXER_DEBUG true
 
-#if CANONICALPOLYNOMIAL_LEXER_DEBUG
 #include <iostream>
-#endif
 
 #include <fstream>
 #include "Monomial.h"
