@@ -5,26 +5,17 @@ Project is for CSCI381 Advanced OOP in C++
 ## Highlights
 
 * **Lexical Analyzer**
-
 * **Operator Overload**
-
 * **Function Overload**
-
 * **Well documented Code**
-
 * **Headers**
-
 * **Debug logs**
-
 * **File Manipulation**
-
 * **Copy Constructor**
 
 ## Requirements
 * Read polynomials line by line from input text file
-
 * Do not use C++ STL
-
 * Output text file containing:
   1.   polynomials as read from file
   2.   polynomials in canonical form
